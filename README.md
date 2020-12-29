@@ -12,8 +12,9 @@ We provide data on the performance of contact tracing system in England divided 
 
 The interactive data dashboard can be found here: https://covid.i-sense.org.uk
 
-*Note*: The ONS Infection Survey advises that the methodology used for estimating incidence rate (new infections), and most updated incidence data is dated on 22 Nov.
-New data will be available again in January. 
+`Note (2020-Dec-11) : The ONS Infection Survey advises that the methodology used for estimating incidence rate (new infections) is under review,
+ and the most updated incidence data is dated on 22 Nov.
+New data will be available again in January. `
 
 #### Data Dictionary (`FTTIS_data.csv`):  
 
